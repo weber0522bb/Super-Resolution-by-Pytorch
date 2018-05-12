@@ -1,7 +1,7 @@
 # Super Resolution  Pytorch
 * Please USE teamviewer to control lab's computer
 <br><code><font color="red">Make sure the computer is free to use!!!  </font></code> 
-<br><code>Account : 443347086<br>Password: 954rfc</code><br>
+<br><code>Account : 443347086 <br>Password: 954rfc</code><br>
 
 * Move to filepath <br><code> $ cd \home\nbmedl\Wei\pytorch\DSPCP\HW3\part2</code>
 * Active pytorch enviroment <br><code>$ source activate pytorch</code>
